@@ -19,4 +19,4 @@ Para isso, a estrutura criada para a classe Sculptor deverá ser repensada e uma
 
 Não serão criados objetos dessa nova classe, mas ela agora será a base para várias outras classes concretas, que proverão funcionalidades semelhantes àquelas providas pela classe Sculptor do projeto anterior.
 
-![Brigadeiro](imagens/brigadeiro.png)
+![Brigadeiro](imagens/brigadeiros.png)
